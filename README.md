@@ -1,41 +1,48 @@
-
-👋 Hi there! I'm Advait Shelatkar
-🎓 Bachelor of Engineering in Information Technology
+👋 Hello, I'm Advait Shelatkar!
+🎓 Degree: Bachelor of Engineering in Information Technology (Expected Graduation: May 2025)
 📍 Mumbai, Maharashtra
 
+I’m passionate about creating intuitive designs and solving complex problems through data analysis and technology. A quick learner and problem solver, I thrive on exploring innovative solutions and refining user experiences.
 
-🛠️ Technical Skills
+🌱 What I’m Currently Learning
+Advanced UI/UX Design Principles
+Generative AI and Data-Driven Design
 
-Programming Languages:
-Python, C, C#, HTML/CSS, JavaScript, SQL
+🛠️ Tech Stack
+Languages: Python, C, C#, HTML/CSS, JavaScript, SQL
+Developer Tools: Figma, Adobe Illustrator, VS Code, GitHub, MongoDB Compass, Jupyter Notebook, Tableau, Power BI
+Frameworks & Technologies: Flask, React, TensorFlow, Keras, OpenCV, Pandas, NumPy
 
-Developer Tools:
-Figma, Adobe Illustrator, VS Code, GitHub, MongoDB Compass, Excel, Jupyter, Tableau, Power BI, PyCharm
+💡 Projects
+Data Analytics Projects
+Fraud Detection System (Power BI & Jupyter)
 
-Frameworks & Technologies:
-Flask, Pandas, NumPy, Scikit-learn, TensorFlow, Keras, OpenCV, Tkinter, React, UI/UX Design Principles
+Built a machine learning model to detect fraudulent transactions with 95% accuracy.
+Visualized fraud trends using interactive Power BI dashboards with over 100K+ records.
+Industry Standard Admin Dashboard (React, MongoDB, ExpressJS)
 
+Designed a real-time admin dashboard with predictive analytics and intuitive visuals.
 
-🌟 Experience
-Graphic Design Intern at CodeFlight
-June 2024 – September 2024 (Remote)
+UI/UX Design Projects
+Food Delivery App | QuickBites
 
-Created engaging social media posts, logos, and branding materials.
-Developed interactive Figma prototypes and improved UI/UX designs for web and mobile applications.
-Collaborated on cross-functional projects, focusing on enhancing usability and accessibility.
+Created an engaging app prototype with streamlined navigation for a seamless user experience.
+Educational Website | LearnSphere
 
+Designed a modern, responsive website featuring interactive webinars and AI services.
+Healthcare App | Reselio
 
+Built an intuitive healthcare app prototype focusing on accessibility and usability for appointment booking, fitness tracking, and AI chatbot integration.
 
 🏆 Leadership & Extracurricular Activities
-ACM Member (2022 – 2023): Contributed to newsletters and organized tech events.
-IT Council Logistics Coordinator (2023): Managed volunteers and event logistics efficiently.
-
-
-🔗 Connect with Me
+ACM Member (2022 – 2023)
+Actively contributed to newsletters and tech event organization.
+Logistics Coordinator | IT-Council (2023)
+Managed volunteers and event logistics for seamless execution.
+📫 How to Reach Me
+Email: apshelatkar2003@gmail.com
 GitHub: AdvaitShelatkar
 LinkedIn: Advait Shelatkar (Insert your LinkedIn link)
-Email: apshelatkar2003@gmail.com
-
 <!---
 AdvaitShelatkar/AdvaitShelatkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
