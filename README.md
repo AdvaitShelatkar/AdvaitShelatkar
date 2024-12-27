@@ -3,8 +3,7 @@
 🎓 Degree:
 
 Bachelor of Engineering in Information Technology
-  
-  Expected Graduation: May 2025
+ Expected Graduation: May 2025
 
 📍 Location:
 Mumbai, Maharashtra
@@ -44,45 +43,38 @@ Deep Learning and Data-Driven Analytics
 
 
 💡 Projects
-
-Data Analytics Projects:
-
-Fraud Detection System (Power BI & Jupyter) :
+Data Analytics Projects
+Fraud Detection System (Power BI & Jupyter):
 Built a machine learning model to detect fraudulent transactions with 95% accuracy.
 Visualized fraud trends using interactive Power BI dashboards with over 100K+ records.
-
 Industry Standard Admin Dashboard (React, MongoDB, ExpressJS):
 Designed a real-time admin dashboard with predictive analytics and intuitive visuals.
+UI/UX Design Projects
 
+Reselio Healthcare App:
+[View Project](https://www.figma.com/design/1k5Y14TO6afSBpXDoMJmZg/Reselio-app?node-id=0-1&t=nBfQvslNjN9OEbmJ-1)
 
-UI/UX Design Projects:
+Food App:
+[View Project](https://www.figma.com/design/aVoBZoqki5lBRemwPz33IZ/FOOD-APP?node-id=0-1&t=RDWvll3tmomVs4is-1 )
 
-Food app - 
-https://www.figma.com/design/aVoBZoqki5lBRemwPz33IZ/FOOD-APP?node-id=0-1&t=RDWvll3tmomVs4is-1 
-
-Educational website -
-https://www.figma.com/design/q4qOHt7uR3dtI69beCffk0/Digimation-FLight-Website?node-id=0-1&t=GZrdGl0ZEP86hZf7-1 
-
-Reselio healthcare app -
-https://www.figma.com/design/1k5Y14TO6afSBpXDoMJmZg/Reselio-app?node-id=0-1&t=nBfQvslNjN9OEbmJ-1  
-
+Educational Website:
+[View Projec](https://www.figma.com/design/q4qOHt7uR3dtI69beCffk0/Digimation-FLight-Website?node-id=0-1&t=GZrdGl0ZEP86hZf7-1 )
 
 🏆 Leadership & Extracurricular Activities
 
-ACM Member (2022 – 2023) :
+ACM Member (2022 – 2023):
 Actively contributed to newsletters and tech event organization.
 
-Logistics Coordinator | IT-Council (2023) :
+Logistics Coordinator | IT-Council (2023):
 Managed volunteers and event logistics for seamless execution.
-
 
 📫 How to Reach Me
 
 Email: apshelatkar2003@gmail.com
 
-GitHub: [AdvaitShelatkar](https://github.com/AdvaitShelatkar)
+LinkedIn: [AdvaitShelatkar](https://www.linkedin.com/in/advait-shelatkar)
 
-LinkedIn: [https://www.linkedin.com/in/advait-shelatkar ](https://www.linkedin.com/in/advait-shelatkar) 
+Github: [Advait Shelatkar](https://github.com/AdvaitShelatkar)
 <!---
 AdvaitShelatkar/AdvaitShelatkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
