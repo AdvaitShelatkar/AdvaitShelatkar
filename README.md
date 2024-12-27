@@ -7,17 +7,21 @@ https://advaitshelatkar.framer.website/
 
 I’m passionate about creating intuitive designs and solving complex problems through data analysis and technology. A quick learner and problem solver, I thrive on exploring innovative solutions and refining user experiences.
 
-🌱 What I’m Currently Learning
+🌱 What I’m Currently Learning:
+
 Advanced UI/UX Design Principles
 Generative AI and Data-Driven Design
 
 🛠️ Tech Stack
+
 Languages: Python, C, C#, HTML/CSS, JavaScript, SQL
+
 Developer Tools: Figma, Adobe Illustrator, VS Code, GitHub, MongoDB Compass, Jupyter Notebook, Tableau, Power BI
+
 Frameworks & Technologies: Flask, React, TensorFlow, Keras, OpenCV, Pandas, NumPy
 
 💡 Projects
-Data Analytics Projects
+Data Analytics Projects:
 Fraud Detection System (Power BI & Jupyter)
 
 Built a machine learning model to detect fraudulent transactions with 95% accuracy.
@@ -26,16 +30,17 @@ Industry Standard Admin Dashboard (React, MongoDB, ExpressJS)
 
 Designed a real-time admin dashboard with predictive analytics and intuitive visuals.
 
-UI/UX Design Projects
-Food Delivery App | QuickBites
+UI/UX Design Projects:
 
-Created an engaging app prototype with streamlined navigation for a seamless user experience.
-Educational Website | LearnSphere
+Food app - 
+https://www.figma.com/design/aVoBZoqki5lBRemwPz33IZ/FOOD-APP?node-id=0-1&t=RDWvll3tmomVs4is-1 
 
-Designed a modern, responsive website featuring interactive webinars and AI services.
-Healthcare App | Reselio
+Educational website -
+https://www.figma.com/design/q4qOHt7uR3dtI69beCffk0/Digimation-FLight-Website?node-id=0-1&t=GZrdGl0ZEP86hZf7-1 
 
-Built an intuitive healthcare app prototype focusing on accessibility and usability for appointment booking, fitness tracking, and AI chatbot integration.
+Reselio healthcare app -
+https://www.figma.com/design/1k5Y14TO6afSBpXDoMJmZg/Reselio-app?node-id=0-1&t=nBfQvslNjN9OEbmJ-1  
+
 
 🏆 Leadership & Extracurricular Activities
 
