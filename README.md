@@ -2,6 +2,8 @@
 🎓 Degree: Bachelor of Engineering in Information Technology (Expected Graduation: May 2025)
 📍 Mumbai, Maharashtra
 
+https://advaitshelatkar.framer.website/ 
+
 I’m passionate about creating intuitive designs and solving complex problems through data analysis and technology. A quick learner and problem solver, I thrive on exploring innovative solutions and refining user experiences.
 
 🌱 What I’m Currently Learning
@@ -39,9 +41,10 @@ ACM Member (2022 – 2023)
 Actively contributed to newsletters and tech event organization.
 Logistics Coordinator | IT-Council (2023)
 Managed volunteers and event logistics for seamless execution.
+
 📫 How to Reach Me
 Email: apshelatkar2003@gmail.com
-GitHub: AdvaitShelatkar
+GitHub: [AdvaitShelatkar](https://github.com/AdvaitShelatkar)
 LinkedIn: [https://www.linkedin.com/in/advait-shelatkar ](https://www.linkedin.com/in/advait-shelatkar) 
 <!---
 AdvaitShelatkar/AdvaitShelatkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
