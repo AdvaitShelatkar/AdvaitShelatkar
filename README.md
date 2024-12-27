@@ -1,18 +1,19 @@
 👋 Hello, I'm Advait Shelatkar!
 
-🎓 Degree: Bachelor of Engineering in Information Technology (Expected Graduation: May 2025)
+🎓 Degree:
+Bachelor of Engineering in Information Technology
+Expected Graduation: May 2025
 
-📍 Mumbai, Maharashtra
+📍 Location:
+Mumbai, Maharashtra
 
-
-https://advaitshelatkar.framer.website/ 
-
-I’m passionate about creating intuitive designs and solving complex problems through data analysis and technology. A quick learner and problem solver, I thrive on exploring innovative solutions and refining user experiences.
+🔗 Portfolio:
+My Portfolio
 
 🌱 What I’m Currently Learning:
 
-Advanced UI/UX Design Principles,
-Deep Learning and Data-Driven Analtyics 
+Advanced UI/UX Design Principles
+Deep Learning and Data-Driven Analytics
 
 
 🛠️ Tech Stack
