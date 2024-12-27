@@ -42,7 +42,7 @@ Managed volunteers and event logistics for seamless execution.
 📫 How to Reach Me
 Email: apshelatkar2003@gmail.com
 GitHub: AdvaitShelatkar
-LinkedIn: Advait Shelatkar (Insert your LinkedIn link)
+LinkedIn: [https://www.linkedin.com/in/advait-shelatkar ](https://www.linkedin.com/in/advait-shelatkar) 
 <!---
 AdvaitShelatkar/AdvaitShelatkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
