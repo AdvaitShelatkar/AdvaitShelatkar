@@ -11,7 +11,7 @@ Mumbai, Maharashtra
 
 🌱 What I’m Currently Learning:
 
-Advanced UI/UX Design Principles
+Advanced UI/UX Design Principles,
 Deep Learning and Data-Driven Analytics
 
 
