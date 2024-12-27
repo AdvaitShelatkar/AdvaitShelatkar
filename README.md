@@ -2,8 +2,7 @@
 
 🎓 Degree:
 Bachelor of Engineering in Information Technology
-
-Expected Graduation: May 2025
+ Expected Graduation: May 2025
 
 📍 Location:
 Mumbai, Maharashtra
