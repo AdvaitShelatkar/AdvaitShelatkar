@@ -1,8 +1,9 @@
 👋 Hello, I'm Advait Shelatkar!
 
 🎓 Degree:
+
 Bachelor of Engineering in Information Technology
- 
+  
   Expected Graduation: May 2025
 
 📍 Location:
