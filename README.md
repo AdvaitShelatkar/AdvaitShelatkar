@@ -43,10 +43,12 @@ Deep Learning and Data-Driven Analytics
 
 
 💡 Projects
-Data Analytics Projects
+Data Analytics Projects:
+
 Fraud Detection System (Power BI & Jupyter):
 Built a machine learning model to detect fraudulent transactions with 95% accuracy.
 Visualized fraud trends using interactive Power BI dashboards with over 100K+ records.
+
 Industry Standard Admin Dashboard (React, MongoDB, ExpressJS):
 Designed a real-time admin dashboard with predictive analytics and intuitive visuals.
 UI/UX Design Projects
