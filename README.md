@@ -1,7 +1,7 @@
 👋 Hello, I'm Advait Shelatkar!
 
 🎓 Degree:
-Bachelor of Engineering in Information Technology
+Bachelor of Technology in Information Technology
 
 📍 Location:
 Mumbai, Maharashtra
