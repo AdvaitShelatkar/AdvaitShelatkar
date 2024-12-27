@@ -38,13 +38,16 @@ Healthcare App | Reselio
 Built an intuitive healthcare app prototype focusing on accessibility and usability for appointment booking, fitness tracking, and AI chatbot integration.
 
 🏆 Leadership & Extracurricular Activities
+
 ACM Member (2022 – 2023)
 Actively contributed to newsletters and tech event organization.
+
 Logistics Coordinator | IT-Council (2023)
 Managed volunteers and event logistics for seamless execution.
 
 
 📫 How to Reach Me
+
 Email: apshelatkar2003@gmail.com
 
 GitHub: [AdvaitShelatkar](https://github.com/AdvaitShelatkar)
