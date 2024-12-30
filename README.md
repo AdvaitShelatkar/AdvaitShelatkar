@@ -45,8 +45,9 @@ Data Analytics Projects:
 
 Fraud Detection System (Power BI & Jupyter):
 [View Project](https://github.com/AdvaitShelatkar/Fraud_detection)
+
 Industry Standard Admin Dashboard (React, MongoDB, ExpressJS):
-Designed a real-time admin dashboard with predictive analytics and intuitive visuals.
+[View Project](https://github.com/AdvaitShelatkar/ADMIN_DASHBOARD)
 UI/UX Design Projects
 
 Reselio Healthcare App:
