@@ -48,6 +48,7 @@ Fraud Detection System (Power BI & Jupyter):
 
 Industry Standard Admin Dashboard (React, MongoDB, ExpressJS):
 [View Project](https://github.com/AdvaitShelatkar/ADMIN_DASHBOARD)
+
 UI/UX Design Projects
 
 Reselio Healthcare App:
